@@ -68,5 +68,5 @@ public class AuthentificationPageObject {
 		return erreur3.getText();
 	}
 	
-	
+	//test commit git 
 }
